@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/taviv/OneDrive/Desktop/Projects/End-to-End-Chest-Cancer-Classification-Using-MLFlow-and-DVC/mlruns/0/26176fdd136a404f9e6e66aebfe566c1/artifacts
+end_time: 1780063021766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26176fdd136a404f9e6e66aebfe566c1
+run_name: rumbling-conch-75
+run_uuid: 26176fdd136a404f9e6e66aebfe566c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780063011863
+status: 3
+tags: []
+user_id: taviv

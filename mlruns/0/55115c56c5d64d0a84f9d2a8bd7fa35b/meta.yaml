@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/taviv/OneDrive/Desktop/Projects/End-to-End-Chest-Cancer-Classification-Using-MLFlow-and-DVC/mlruns/0/55115c56c5d64d0a84f9d2a8bd7fa35b/artifacts
+end_time: 1780061486442
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55115c56c5d64d0a84f9d2a8bd7fa35b
+run_name: aged-rat-122
+run_uuid: 55115c56c5d64d0a84f9d2a8bd7fa35b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780061475404
+status: 3
+tags: []
+user_id: taviv
